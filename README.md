@@ -15,13 +15,19 @@ Please contribute to the open source community so we can all benefit and combat 
 If you are like us and want to further help the thai startupscene by open sourcing software as we progress to benefit the industry as a whole, please consider joining our awesome team! Contact benjamin@tdm-thailand or just PM me on Facebook (BEnjamin Fauchald) Even if you are an expert programmer or just starting out we would love to hear from you as we train peopole in technology in intern positions as well. No formal degrees required!
  
 
-#Additional help
-Someone asked how to use this JSON in PHP, easiest wa is to import the data into a postgres JSON native column and decode with builtin parser.
-Here is a link to a JSON tutorial for PHP: http://www.youtube.com/watch?v=Ua8oqm_HBSY
-And here is a gist to calc distances in PHP as well, https://gist.github.com/jammin77/310d52d197fec1b89300
+#Code examples
+
+Ruby  : https://gist.github.com/jammin77/37ef29465568dc1c91bf
+PHP   : https://gist.github.com/jammin77/310d52d197fec1b89300
+C#	  : https://gist.github.com/jammin77/033a332542aa24889452 <- For Jostein
+MSSQL : https://gist.github.com/jammin77/0a23f8758da3bec3f58f
+Python: https://gist.github.com/jammin77/e1d34c6eeb1e97f1e41d
+ASM:    https://gist.github.com/jammin77/20bf484f3beb09448d22 <- Screenshot for those who pull this off!
+
+
 
 #But please guys, learn ruby instead :)
 
-Any questions or problems you want solved, please contact me at benjamin@tdm-thailand.com or PM me at Facebook Benjamin Fauchald at any time. Im online 24/7 
+Any questions or problems you want solved, please contact me at benjamin@tdm-thailand.com or PM me at Facebook Benjamin Fauchald at any time. I`m online 24/7 
 
-Show me what you build!! Let`s GetStuffDone!
+#Show me what you build!! Let`s GetStuffDone!
