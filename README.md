@@ -27,7 +27,7 @@ MSSQL : https://gist.github.com/jammin77/0a23f8758da3bec3f58f
 
 Python: https://gist.github.com/jammin77/e1d34c6eeb1e97f1e41d
 
-ASM:    https://gist.github.com/jammin77/20bf484f3beb09448d22 <- Screenshot for those who pull this off!
+ASM:    https://gist.github.com/jammin77/20bf484f3beb09448d22 <- Screenshot & 5000 TBH reward for the first one who pull this off!
 
 
 
